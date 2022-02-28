@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "do-not-recentre-map",
+    "slug": "do-not-recentre-map",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
